@@ -38,10 +38,11 @@ If the above method doesn't work:
 
 ## 📸 Screenshots (Before & After)
 ### Before
-![Before](https://prnt.sc/GT5twdkblcZ4)
-### After![Screenshot_5](https://github.com/user-attachments/assets/251e969c-4116-4fd0-80ef-453d2419c747)
+![Before](https://github.com/user-attachments/assets/251e969c-4116-4fd0-80ef-453d2419c747)
 
-![After](https://prnt.sc/a-dBpRElAeju)
+### After!
+![After](https://github.com/user-attachments/assets/51f448e3-a03e-49d7-8b05-868ca1201fc0)
+
 
 ---
 
