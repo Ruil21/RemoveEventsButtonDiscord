@@ -1,6 +1,7 @@
 # RemoveEvents - BetterDiscord Plugin
 
-![BetterDiscord]([https://betterdiscord.app/img/logo.png](https://betterdiscord.app/resources/branding/logo_large.svg))
+![BetterDiscord])![Screenshot_7](https://github.com/user-attachments/assets/e4ef3c09-3b8d-4613-b904-3231f3107261)
+
 
 ## 🚀 Overview
 **RemoveEvents** is a simple BetterDiscord plugin that removes the unnecessary **"Events"** button from the server sidebar, along with the separator and extra spacing.
