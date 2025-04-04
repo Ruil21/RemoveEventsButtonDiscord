@@ -1,6 +1,6 @@
 # RemoveEvents - BetterDiscord Plugin
 
-(https://github.com/user-attachments/assets/e4ef3c09-3b8d-4613-b904-3231f3107261)
+![BetterDiscord](https://github.com/user-attachments/assets/e4ef3c09-3b8d-4613-b904-3231f3107261)
 
 
 ## 🚀 Overview
