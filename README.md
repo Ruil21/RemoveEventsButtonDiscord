@@ -39,7 +39,8 @@ If the above method doesn't work:
 ## 📸 Screenshots (Before & After)
 ### Before
 ![Before](https://prnt.sc/GT5twdkblcZ4)
-### After
+### After![Screenshot_5](https://github.com/user-attachments/assets/251e969c-4116-4fd0-80ef-453d2419c747)
+
 ![After](https://prnt.sc/a-dBpRElAeju)
 
 ---
@@ -63,12 +64,7 @@ The plugin uses **JavaScript and CSS manipulation** to:
 ## 👥 Contributing
 Pull requests and suggestions are welcome! If you have ideas, create an **issue** or **fork** the repo.
 
-**GitHub Repository:** [https://github.com/YOUR-USERNAME/YOUR-REPO](https://github.com/YOUR-USERNAME/YOUR-REPO)
-
----
-
-## 📜 License
-This project is **open-source** under the **MIT License**. Feel free to use and modify it! 😊
+**GitHub Repository:** [https://github.com/Ruil21/RemoveEventsButtonDiscord.git](https://github.com/Ruil21/RemoveEventsButtonDiscord.git)
 
 ---
 
