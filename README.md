@@ -66,10 +66,3 @@ The plugin uses **JavaScript and CSS manipulation** to:
 Pull requests and suggestions are welcome! If you have ideas, create an **issue** or **fork** the repo.
 
 **GitHub Repository:** [https://github.com/Ruil21/RemoveEventsButtonDiscord.git](https://github.com/Ruil21/RemoveEventsButtonDiscord.git)
-
----
-
-## 📢 Support & Feedback
-💬 Found a bug or have suggestions? Open an issue on GitHub!  
-🐦 Twitter: [@YourUsername](https://twitter.com/YourUsername)  
-📣 Discord: [Your Discord Server](https://discord.gg/yourserver)
